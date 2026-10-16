@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wang Lin (王琳)"
+title                    : "Lin Wang (王琳)"
 description              : ""
 url: "https://linwangtamu.github.io"
 baseurl: ""   
@@ -23,9 +23,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Wang Lin (王琳)"
+  name             :  "Lin Wang (王琳)"
   avatar           : "images/profile_lin.png"
-  bio              : "PhD student at Texas A＆M University, focusing on wireless networks and reinforcement learning"
+  bio              : "Ph.D. student at Texas A&M University | ML Systems, Efficient LLM Inference, and Wireless Networks"
   location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
