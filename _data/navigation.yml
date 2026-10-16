@@ -18,8 +18,8 @@ main:
     url: "#educations"
 
 
-  - title: "Experience"
+   - title: "Industry Experience"
     url: "#internships"
     
-  - title: "Invited Talks"
-    url: "#invited-talks"
+  # - title: "Invited Talks"
+  #   url: "#invited-talks"
