@@ -3,3 +3,4 @@ Hi! I’m **Lin Wang (王琳)**, a Ph.D. student in Electrical Engineering at **
 My research focuses on **efficient LLM inference** and **wireless network scheduling**. I combine stochastic modeling, optimization, and system implementation to design resource-aware algorithms. 
 
 I received my **B.S.** and **M.S.** degrees in Electrical Engineering from **Nankai University**, China, in 2021 and 2024, respectively.
+[CV (PDF)](LinWang_CV.pdf)
