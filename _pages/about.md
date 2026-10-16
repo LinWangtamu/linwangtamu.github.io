@@ -16,6 +16,10 @@ redirect_from:
 <span id="news"></span>
 {% include_relative includes/news.md %}
 
+<!-- Selected Research -->
+<span id="selected-research"></span>
+{% include_relative includes/research.md %}
+
 <!-- Publications -->
 <span id="publications"></span>
 {% include_relative includes/pub.md %}
