@@ -4,7 +4,7 @@ main:
 
   - title: "News"
     url: "#news"
-    
+
   - title: "Research"
     url: "#selected-research"
 
@@ -17,9 +17,8 @@ main:
   - title: "Education"
     url: "#educations"
 
-
-   - title: "Industry Experience"
+  - title: "Industry Experience"
     url: "#internships"
-    
+
   # - title: "Invited Talks"
   #   url: "#invited-talks"
