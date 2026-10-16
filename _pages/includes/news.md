@@ -1,6 +1,10 @@
-# 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+# 🔥 News 
+- **Aug 2026** 🎉  Our paper *"[TSDM: A Scheduling Policy for Joint Throughput-AoI Optimization in Multichannel Wireless Networks](https://arxiv.org/pdf/2608.05348)"*  has been accepted to **[MobiHoc 2026](https://www.sigmobile.org/mobihoc/2026/)** 🎊 (acceptance rate: 23%).
+- **Aug 2025** 🎉  Our paper *"[Understanding the Fundamental Trade-Off Between Age of Information and Throughput in Unreliable Wireless Networks](https://arxiv.org/pdf/2508.12185)"*  has been accepted to **[MobiHoc 2025](https://www.sigmobile.org/mobihoc/2025/)** 🎊 (acceptance rate: 23%).
+
+- **Jul 2025** ✅  I successfully passed my **Ph.D. Qualifying Exam**.  Many thanks to my committee members and my advisor for their support!
+
+- **Aug 2024** 🎓  Joined **Texas A＆M University** as a **Ph.D. student** in Computer Engineering.  
+
+- **Jun 2024** 🎓  Completed my **M.Sc. degree** at **Nankai University**, Tianjin, China.  
+
