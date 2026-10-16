@@ -21,7 +21,7 @@ We study scheduling over unreliable wireless links, focusing on the trade-off be
 ### 3. Real-Time Scheduling for O-RAN
 *Aug 2025 – Present*
 
-<img src="images/research-oran.png"
+<img src="images/research-oran.png?v=2"
      alt="Real-time scheduling with EdgeRIC"
      style="display:block; width:100%; max-width:800px; height:auto; margin:12px auto;">
      
