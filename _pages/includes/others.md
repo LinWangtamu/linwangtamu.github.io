@@ -22,8 +22,9 @@
 - Deployed quantized computer-vision models on i.MX93 NPU edge devices using TensorFlow Lite and hardware delegate acceleration.
 - Profiled inference latency and optimized detection-and-tracking pipelines to meet real-time latency and memory constraints.
 - Collaborated with a cross-functional team to integrate inference pipelines into embedded firmware.
-<!-- Invited Talks -->
+<!--
 <span id="invited-talks"></span>
 ## 💬 Invited Talks
 
 *(Coming soon...)*
+-->
