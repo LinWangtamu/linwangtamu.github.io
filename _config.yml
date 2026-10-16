@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Wang Lin (王琳)"
+description              : ""
+url: "https://linwangtamu.github.io"
+baseurl: ""   
+repository               : "linwangtamu/linwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +23,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : ""
-  location         : "Singapore"
-  employer         : "HeyGen"
+  name             : "Wang Lin (王琳)"
+  avatar           : "images/profile_lin.png"
+  bio              : "PhD student at Texas A＆M University, focusing on wireless networks and reinforcement learning"
+  location         : "College Station, TX, USA"
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3cMlWF0AAAAJ&hl=en"
+  email            : "linwang0420@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,18 +39,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "LinWangtamu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : "lin-wang-a4a5a9279"
+  # dblp             : "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0009-0003-4798-9397"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -135,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
