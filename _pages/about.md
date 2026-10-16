@@ -8,15 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<!-- About Me -->
+<span id="about-me"></span>
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
-
+<!-- News -->
+<span id="news"></span>
 {% include_relative includes/news.md %}
 
+<!-- Publications -->
+<span id="publications"></span>
 {% include_relative includes/pub.md %}
 
+<!-- Honors and Awards -->
+<span id="honors-and-awards"></span>
 {% include_relative includes/honers.md %}
 
+<!-- Others (包含 Education, Invited Talks, Internships) -->
+<span id="others"></span>
 {% include_relative includes/others.md %}
