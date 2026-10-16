@@ -9,8 +9,8 @@
 title                    : "Lin Wang (王琳)"
 description              : "Lin Wang is a Ph.D. student at Texas A＆M University researching efficient LLM inference and wireless network scheduling."
 url: "https://linwangtamu.github.io"
-baseurl: ""   
-repository               : "linwangtamu/linwang.github.io"
+baseurl: ""
+repository: "LinWangtamu/linwangtamu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
